@@ -99,6 +99,8 @@ Maintained by [BuiltForAEC](https://github.com/BuiltForAEC) · Paris
 - [Frame3DD](https://github.com/unrealsolver/frame3dd) — Structural frame analysis
 - [ETABS/SAP2000 API wrappers](https://github.com/search?q=etabs+api) — Community tools
 
+### Cost Estimating & Takeoff
+- [BidWright](https://github.com/braedonsaunders/bidwright) — Construction estimating with 2D, 3D, PDF, BIM, and point-cloud takeoff
 ---
 
 ## Data & Integration
